@@ -4,18 +4,18 @@ title: "MUSA 5080 Portfolio"
 
 # Welcome to My Portfolio
 
-This portfolio documents my learning journey in Public Policy Analytics (MUSA 5080).
+This portfolio documents my learning journey in Public Policy Analytics (CPLN 5920).
 
 ## About This Course
 Advanced spatial analysis and data science for urban planning and public policy.
 
 ## Portfolio Structure
-- **Weekly Notes:** My learning reflections and key concepts
 - **Labs:** Completed assignments and analyses
 - **Final Project:** Capstone modeling challenge
 
 ## About Me
-[Students will customize this section]
+I am an associate professor in the Department of City and Regional Planning at Penn. I direct the smart city concentration
+within our Masters in City Planning program. This is my first time teaching PPA. I have previously taught Sensing the City (an Arduino-based course on using microsensors for dynamic and responsive cities) and GIS.
 
 ## Contact
 - Email: [your.email@upenn.edu]
