@@ -31,8 +31,8 @@ Now let's personalize it.
 #### 1.1 Edit Your Site Title
 1. Click on the `_quarto.yml` file
 2. Click the pencil icon (✏️) to edit
-3. Change `"Your Name - MUSA 5080 Portfolio"` to include your actual name
-4. Example: `"Jane Smith - MUSA 5080 Portfolio"`
+3. Change `"Your Name - CPLN 5920 Portfolio"` to include your actual name
+4. Example: `"Jane Smith - CPLN 5920 Portfolio"`
 5. Click **"Commit changes"** at the bottom
 
 #### 1.2 Update Your Homepage
